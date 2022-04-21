@@ -1,1 +1,15 @@
-p { background-color: red; }
+ul {
+    color:palevioletred;
+}
+
+* {
+    color:darkred;
+}
+
+h1 {
+    color:blue;
+}
+
+#jatkuu {
+    color:red;
+}
