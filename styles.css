@@ -1,0 +1,26 @@
+p {
+    color:wheat;
+}
+
+.first-box {
+    width: 200px;
+    height: 100px;
+    background-color:darkgreen;
+    position: absolute;
+}
+
+.second-box {
+    width: 200px;
+    height: 100px;
+    background-color:darkred;
+    left: 250px;
+    position: absolute;
+}
+
+.third-box {
+    width: 200px;
+    height: 100px;
+    background-color:darkorange;
+    position:absolute;
+    left: 500px;
+}
