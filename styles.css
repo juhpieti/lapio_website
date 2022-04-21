@@ -1,5 +1,16 @@
 p {
     color:wheat;
+    margin-top: 15%;
+    font-size: 15px;
+}
+
+* {
+    text-align:center;
+}
+
+.laatikko {
+    border-style: solid;
+    border-width: 10px;
 }
 
 .first-box {
@@ -7,6 +18,8 @@ p {
     height: 100px;
     background-color:darkgreen;
     position: absolute;
+    text-transform: uppercase;
+    border-color: chocolate;
 }
 
 .second-box {
@@ -15,6 +28,8 @@ p {
     background-color:darkred;
     left: 250px;
     position: absolute;
+    text-transform: uppercase;
+    border-color: darkmagenta;
 }
 
 .third-box {
@@ -23,4 +38,6 @@ p {
     background-color:darkorange;
     position:absolute;
     left: 500px;
+    text-transform: uppercase;
+    border-color: darkgreen;
 }
